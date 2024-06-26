@@ -10,5 +10,15 @@ console.log(singleQuoteString);
 let doubleQuoteString = "Hello World";
 console.log(doubleQuoteString);
 
-let name = `world`;
-let templateLitrealString = `Hello, ${name}`;
+let text = `World`;
+let templateLitrealString = `Hello, ${text}`;
+console.log(templateLitrealString);
+
+let multiLineString = "This is first line\nThis is second line";
+console.log(multiLineString);
+
+let firstName = "Sarita";
+let lastName = "Yadav";
+let fullName = firstName + " " + lastName;
+console.log(fullName);
+
