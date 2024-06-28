@@ -64,7 +64,7 @@ console.log(numbers);
 let fruits = ["Apple", "Banana"];
 console.log(fruits);
 
-let mixedArray = ["Jaipur", 56, false, [1, 2, 3, [4, 5, 6]], {name:"Sarita"}];
+let mixedArray = ["Jaipur", 56, false, [1, 2, 3, [4, 5, 6]], { name: "Sarita" }];
 console.log(mixedArray[3][1]);
 console.log(mixedArray[3][3][0]);
 console.log(mixedArray[4]);
