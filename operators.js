@@ -71,6 +71,7 @@ let textTwo = "A";
 console.log(textOne == textTwo);
 console.log(textOne < textTwo);
 
+
 console.log("Adding string and numbers:");
 let text1 = "Hello";
 let number1 = 5;
@@ -98,4 +99,6 @@ console.log(~6);
 console.log(4 ^ 5);
 console.log("Left shift:", 3 << 4);
 console.log("Right Shift:", 4 >> 2);
+
+
 
